@@ -1,0 +1,1 @@
+Weather Application made with HTML, CSS & Javascript
